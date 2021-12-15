@@ -5,7 +5,7 @@ using System.IO;
 namespace codewar
 {
     /*
-        Congratulations! As a hard working software developer you have you've decided to take a vacation at a nice resort on a tropical island.
+        Congratulations! As a hard working software developer you have you've decided to take a Christmas vacation at a nice resort on a tropical island.
         Before you leave, the trolls in accounting just need you to fix your expense report (expense_report.txt); apparently, something isn't quite adding up.
     */
     public class Task1 

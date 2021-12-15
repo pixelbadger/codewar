@@ -5,7 +5,7 @@ using System.IO;
 namespace codewar
 {
     /*
-        Your flight departs in a few days from the coastal airport; the easiest way down to the coast from here is via bike.
+        Your flight departs in a few days from the Luton airport; the easiest way down from here is via bike.
         The shopkeeper at Banburyshire Bike Rentals is having a bad day. "Something's wrong with our computers; we can't log in!" 
         
         You ask if you can take a look. Their password database seems to be a little corrupted. 
